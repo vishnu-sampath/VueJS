@@ -1,0 +1,13 @@
+# Ignore all finished projects
+Project1_Self_Service_Machine_Finished/
+Project2_Working_With_Forms_Finished/
+Project3_Todo_List_Finished/
+Project4_Quiz_Game_Finished/
+Project5_Shopping_Bag_Final/
+Project6_Task_Manager_Final/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore other unwanted files
+Project 4 - Initial.txt
